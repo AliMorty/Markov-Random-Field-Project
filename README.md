@@ -25,7 +25,7 @@ a_complete_set_for_part_1(arr, max_iter=1e7, var=1e4, betha=1e4)
 ```
 
 
-![png](output_4_0.png)
+![png](tmp/output_4_0.png)
 
 
 
@@ -44,7 +44,7 @@ a_complete_set_for_part_1_some_pixels_known(arr,  known_index, max_iter=1e6, var
 
 
 
-![png](output_5_1.png)
+![png](tmp/output_5_1.png)
 
 
 ## Image Segmentation
@@ -64,7 +64,7 @@ a_complete_set_for_part_2(arr,class_info, max_iter=1e7, betha=1e6)
 ```
 
 
-![png](output_8_0.png)
+![png](tmp/output_8_0.png)
 
 
 ### HSV color space
@@ -77,7 +77,7 @@ a_complete_set_for_part_2(arr_h,class_info, max_iter=1e6, betha=1e6)
 ```
 
 
-![png](output_11_0.png)
+![png](tmp/output_11_0.png)
 
 
 ### RGB color space
@@ -90,7 +90,7 @@ a_complete_set_for_part_2_3_color(max_iter=1e6, betha=1e6)
 ```
 
 
-![png](output_13_0.png)
+![png](tmp/output_13_0.png)
 
 
 
@@ -100,7 +100,7 @@ a_complete_set_for_part_2_3_color(max_iter=1e6, betha=1e6,
 ```
 
 
-![png](output_14_0.png)
+![png](tmp/output_14_0.png)
 
 
 ## Conclusion
