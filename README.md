@@ -20,4 +20,4 @@ imshow(arr, cmap='gray');
     
 
 
-![png](output_3_1.png)
+![png](Codes/output_3_1.png)
