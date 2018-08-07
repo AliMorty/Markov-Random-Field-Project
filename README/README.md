@@ -57,7 +57,6 @@ a_complete_set_for_part_1(arr, max_iter=1e6, var=1e4, betha=1e4)
 ```
 
 
-    <matplotlib.figure.Figure at 0x835c997d30>
 
 
 
