@@ -1,1 +1,1 @@
-[Markov Random Field Project](Complete Version/README.md)
+[Markov Random Field Project](./Complete Version/README.md)
