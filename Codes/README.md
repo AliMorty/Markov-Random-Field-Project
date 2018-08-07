@@ -202,7 +202,7 @@ In our problem we have to define an energy function on hidden states correspondi
 Our energy function is defined as below: <br>
  
 
-$U(w)=\sum_{s} (\lg (\sigma_{\omega_{s}} \sqrt{2 \pi}) + \frac{(f_s - \mu_{\omega_{s}})^2}{2(\sigma_{\omega_{s}})^2}) + \sum_{s,r} \beta \delta (s,r)  $
+![formula](../README/formula.bmp)
 
 
 ```python
