@@ -7,7 +7,7 @@ For a brief read me, click on [Brief Read me](README/README.md) <br>
 For checking the code, click on [Codes](Codes/README.md)
 
 
-
+$a=2$
 
 Markov Random Field Models provide a simple and effective way to model the spatial dependencies in image pixels. <br>
 So we useed them to model the connection between two neighbour pixels. <br>
@@ -15,7 +15,7 @@ In our problem we have to define an energy function on hidden states correspondi
 Our energy function is defined as below: <br>
  
 
-$U(w)=\sum_{s} (\lg (\sigma_{\omega_{s}} \sqrt{2 \pi}) + \frac{(f_s - \mu_{\omega_{s}})^2}{2(\sigma_{\omega_{s}})^2}) + \sum_{s,r} \beta \delta (s,r)  $
+($U(w)=\sum_{s} (\lg (\sigma_{\omega_{s}} \sqrt{2 \pi}) + \frac{(f_s - \mu_{\omega_{s}})^2}{2(\sigma_{\omega_{s}})^2}) + \sum_{s,r} \beta \delta (s,r)  $)
 
 ## Denoising
 
@@ -41,7 +41,6 @@ a_complete_set_for_part_1_some_pixels_known(arr,  known_index, max_iter=1e6, var
 ```
 
 
-    <matplotlib.figure.Figure at 0xa6d9bbad68>
 
 
 
