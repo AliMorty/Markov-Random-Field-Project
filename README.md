@@ -13,7 +13,7 @@ So we useed them to model the connection between two neighbour pixels. <br>
 In our problem we have to define an energy function on hidden states corresponding to true values of each pixels, then we minimize this function to obtain the best prediction. <br>
 Our energy function is defined as below: <br>
  
-![formula](./README/formula.png)
+![formula](./README/formula.bmp)
 
 ($U(w)=\sum_{s} (\lg (\sigma_{\omega_{s}} \sqrt{2 \pi}) + \frac{(f_s - \mu_{\omega_{s}})^2}{2(\sigma_{\omega_{s}})^2}) + \sum_{s,r} \beta \delta (s,r)  $)
 
