@@ -30,13 +30,6 @@ a_complete_set_for_part_1(arr, max_iter=1e7, var=1e4, betha=1e4)
 
 
 ```python
-plt.figure(figsize=(10, 12), dpi=80, facecolor='w', edgecolor='k')
-known_index = np.zeros((len(arr), len(arr[0])))
-for i in range (0, len(arr)):
-    for j in range(0, len(arr[0])):
-        if (i <= j ):
-            known_index[i][j]=1
-bta = 1e4
 a_complete_set_for_part_1_some_pixels_known(arr,  known_index, max_iter=1e6, var=1e4, betha=bta)
 ```
 
