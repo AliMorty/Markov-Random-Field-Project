@@ -15,7 +15,7 @@ Our energy function is defined as below: <br>
  
 ![formula](./README/formula.bmp)
 
-($U(w)=\sum_{s} (\lg (\sigma_{\omega_{s}} \sqrt{2 \pi}) + \frac{(f_s - \mu_{\omega_{s}})^2}{2(\sigma_{\omega_{s}})^2}) + \sum_{s,r} \beta \delta (s,r)  $)
+
 
 ## Denoising
 
