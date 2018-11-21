@@ -3,8 +3,8 @@
 This project has two parts. In part one, we use markov random field to denoise an image. In Part two, we use similar model for image segmentation. 
 
 
-For a brief read me, click on [Brief Read me](README/README.md) <br>
-For checking the code, click on [Codes](Codes/README.md)
+For a brief read me, click on [Brief Read me](https://github.com/AliMorty/Markov-Random-Field-Project/blob/master/README/README.md) <br>
+For checking the code, click on [Codes](https://github.com/AliMorty/Markov-Random-Field-Project/blob/master/Codes/README.md)
 
 
 
