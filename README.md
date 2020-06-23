@@ -9,7 +9,7 @@ For checking the code, click on [Codes](https://github.com/AliMorty/Markov-Rando
 
  **Update**
  **As some people asked me some questions, I felt it might be helpful to add some notes here:**<br>
- > The reference that I have used can be found [here](https://github.com/AliMorty/Markov-Random-Field-Project/raw/master/MRF.pdf)<br>
+ > The reference that I have used can be found [here](https://github.com/AliMorty/Markov-Random-Field-Project/raw/master/MRF.pdf). I have also used the [PGMs](https://www.amazon.com/Probabilistic-Graphical-Models-Principles-Computation/dp/0262013193) book from Daphne Koller and Nir Friedman<br>
  > The potential function is equivalent to log(Probability(x)) for any particular image x. We want to find x that maximizes this probability. This image x would be our prediction. We do search for this x using Simulated annealing. 
  
 
