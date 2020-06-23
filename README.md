@@ -2,11 +2,16 @@
 # Markov Random Field For Image Segmentation and Denoising
 This project has two parts. In part one, we use markov random field to denoise an image. In Part two, we use similar model for image segmentation. 
 
+ 
 
 For a brief read me, click on [Brief Read me](https://github.com/AliMorty/Markov-Random-Field-Project/blob/master/README/README.md) <br>
 For checking the code, click on [Codes](https://github.com/AliMorty/Markov-Random-Field-Project/blob/master/Codes/README.md)
 
-
+ **Update**
+ > As some people asked me some questions, I felt it might be helpful to add some notes here:<br>
+ > The reference that I have used can be found [here](https://github.com/AliMorty/Markov-Random-Field-Project/raw/master/MRF.pdf)<br>
+ > The potential function is equivalent to log(Probability(x)) for any particular image x. We want to find x that maximizes this probability. This image x would be our prediction. We do search for this x using Simulated annealing. 
+ 
 
 Markov Random Field Models provide a simple and effective way to model the spatial dependencies in image pixels. <br>
 So we useed them to model the connection between two neighbour pixels. <br>
